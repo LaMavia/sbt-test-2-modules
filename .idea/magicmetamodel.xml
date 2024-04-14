@@ -1,0 +1,1604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MagicMetaModelService">
+    <option name="facadeState">
+      <MagicMetaModelTemporaryFacadeState>
+        <option name="targets">
+          <list>
+            <BuildTargetInfoState>
+              <option name="baseDirectory" value="file:$PROJECT_DIR$/" />
+              <option name="capabilities">
+                <ModuleCapabilitiesState>
+                  <option name="canCompile" value="true" />
+                  <option name="canRun" value="true" />
+                  <option name="canTest" value="true" />
+                </ModuleCapabilitiesState>
+              </option>
+              <option name="dependencies">
+                <list>
+                  <option value="file:$PROJECT_DIR$/#root/Compile" />
+                </list>
+              </option>
+              <option name="displayName" value="root-test" />
+              <option name="id" value="file:$PROJECT_DIR$/#root/Test" />
+              <option name="languageIds">
+                <list>
+                  <option value="scala" />
+                </list>
+              </option>
+            </BuildTargetInfoState>
+            <BuildTargetInfoState>
+              <option name="baseDirectory" value="file:$PROJECT_DIR$/hello/" />
+              <option name="capabilities">
+                <ModuleCapabilitiesState>
+                  <option name="canCompile" value="true" />
+                  <option name="canRun" value="true" />
+                  <option name="canTest" value="true" />
+                </ModuleCapabilitiesState>
+              </option>
+              <option name="dependencies">
+                <list>
+                  <option value="file:$PROJECT_DIR$/#world/Compile" />
+                </list>
+              </option>
+              <option name="displayName" value="hello" />
+              <option name="id" value="file:$PROJECT_DIR$/#hello/Compile" />
+              <option name="languageIds">
+                <list>
+                  <option value="scala" />
+                </list>
+              </option>
+            </BuildTargetInfoState>
+            <BuildTargetInfoState>
+              <option name="baseDirectory" value="file:$PROJECT_DIR$/world/" />
+              <option name="capabilities">
+                <ModuleCapabilitiesState>
+                  <option name="canCompile" value="true" />
+                  <option name="canRun" value="true" />
+                  <option name="canTest" value="true" />
+                </ModuleCapabilitiesState>
+              </option>
+              <option name="displayName" value="world" />
+              <option name="id" value="file:$PROJECT_DIR$/#world/Compile" />
+              <option name="languageIds">
+                <list>
+                  <option value="scala" />
+                </list>
+              </option>
+            </BuildTargetInfoState>
+            <BuildTargetInfoState>
+              <option name="baseDirectory" value="file:$PROJECT_DIR$/world/" />
+              <option name="capabilities">
+                <ModuleCapabilitiesState>
+                  <option name="canCompile" value="true" />
+                  <option name="canRun" value="true" />
+                  <option name="canTest" value="true" />
+                </ModuleCapabilitiesState>
+              </option>
+              <option name="dependencies">
+                <list>
+                  <option value="file:$PROJECT_DIR$/#world/Compile" />
+                </list>
+              </option>
+              <option name="displayName" value="world-test" />
+              <option name="id" value="file:$PROJECT_DIR$/#world/Test" />
+              <option name="languageIds">
+                <list>
+                  <option value="scala" />
+                </list>
+              </option>
+            </BuildTargetInfoState>
+            <BuildTargetInfoState>
+              <option name="baseDirectory" value="file:$PROJECT_DIR$/hello/" />
+              <option name="capabilities">
+                <ModuleCapabilitiesState>
+                  <option name="canCompile" value="true" />
+                  <option name="canRun" value="true" />
+                  <option name="canTest" value="true" />
+                </ModuleCapabilitiesState>
+              </option>
+              <option name="dependencies">
+                <list>
+                  <option value="file:$PROJECT_DIR$/#hello/Compile" />
+                  <option value="file:$PROJECT_DIR$/#world/Compile" />
+                </list>
+              </option>
+              <option name="displayName" value="hello-test" />
+              <option name="id" value="file:$PROJECT_DIR$/#hello/Test" />
+              <option name="languageIds">
+                <list>
+                  <option value="scala" />
+                </list>
+              </option>
+            </BuildTargetInfoState>
+            <BuildTargetInfoState>
+              <option name="baseDirectory" value="file:$PROJECT_DIR$/" />
+              <option name="capabilities">
+                <ModuleCapabilitiesState>
+                  <option name="canCompile" value="true" />
+                  <option name="canRun" value="true" />
+                  <option name="canTest" value="true" />
+                </ModuleCapabilitiesState>
+              </option>
+              <option name="displayName" value="root" />
+              <option name="id" value="file:$PROJECT_DIR$/#root/Compile" />
+              <option name="languageIds">
+                <list>
+                  <option value="scala" />
+                </list>
+              </option>
+            </BuildTargetInfoState>
+            <BuildTargetInfoState>
+              <option name="baseDirectory" value="file:$PROJECT_DIR$/project/" />
+              <option name="displayName" value="root-build" />
+              <option name="id" value="file:$PROJECT_DIR$/#root-build" />
+              <option name="languageIds">
+                <list>
+                  <option value="scala" />
+                </list>
+              </option>
+            </BuildTargetInfoState>
+          </list>
+        </option>
+        <option name="targetsDetailsForDocumentProviderState">
+          <TargetsDetailsForDocumentProviderState>
+            <option name="documentIdToTargetsIdsMap">
+              <map>
+                <entry key="$PROJECT_DIR$/build.sbt">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#root-build" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/hello/src/main/java">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#hello/Compile" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/hello/src/main/scala">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#hello/Compile" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/hello/src/main/scala-2">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#hello/Compile" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/hello/src/main/scala-2.12">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#hello/Compile" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/hello/src/test/java">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#hello/Test" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/hello/src/test/scala">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#hello/Test" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/hello/src/test/scala-2">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#hello/Test" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/hello/src/test/scala-2.12">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#hello/Test" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/hello/target/scala-2.12/src_managed/main">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#hello/Compile" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/hello/target/scala-2.12/src_managed/test">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#hello/Test" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/project/Dependencies.scala">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#root-build" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/project/src/main/java">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#root-build" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/project/src/main/scala">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#root-build" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/project/src/main/scala-2">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#root-build" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/project/src/main/scala-2.12">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#root-build" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/project/src/main/scala-sbt-1.0">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#root-build" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/src_managed/main">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#root-build" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/src/main/java">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#root/Compile" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/src/main/scala">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#root/Compile" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/src/main/scala-2">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#root/Compile" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/src/main/scala-2.12">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#root/Compile" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/src/test/java">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#root/Test" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/src/test/scala">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#root/Test" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/src/test/scala-2">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#root/Test" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/src/test/scala-2.12">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#root/Test" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/target/scala-2.12/src_managed/main">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#root/Compile" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/target/scala-2.12/src_managed/test">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#root/Test" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/world/src/main/java">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#world/Compile" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/world/src/main/scala">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#world/Compile" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/world/src/main/scala-2">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#world/Compile" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/world/src/main/scala-2.12">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#world/Compile" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/world/src/test/java">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#world/Test" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/world/src/test/scala">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#world/Test" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/world/src/test/scala-2">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#world/Test" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/world/src/test/scala-2.12">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#world/Test" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/world/target/scala-2.12/src_managed/main">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#world/Compile" />
+                    </set>
+                  </value>
+                </entry>
+                <entry key="$PROJECT_DIR$/world/target/scala-2.12/src_managed/test">
+                  <value>
+                    <set>
+                      <option value="file:$PROJECT_DIR$/#world/Test" />
+                    </set>
+                  </value>
+                </entry>
+              </map>
+            </option>
+          </TargetsDetailsForDocumentProviderState>
+        </option>
+        <option name="unloadedTargets">
+          <map>
+            <entry key="file:$PROJECT_DIR$/#hello/Compile">
+              <value>
+                <ModuleState>
+                  <option name="baseDirContentRoot">
+                    <ContentRootState>
+                      <option name="path" value="$PROJECT_DIR$/hello" />
+                    </ContentRootState>
+                  </option>
+                  <option name="jvmJdkName" value="temurin-17" />
+                  <option name="libraries">
+                    <list>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.jar!/" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.12/3.0.5/scalatest_2.12-3.0.5.jar!/" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.12/3.0.5/scalatest_2.12-3.0.5.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.12/3.0.5/scalatest_2.12-3.0.5-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.0.5/scalactic_2.12-3.0.5.jar!/" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.0.5/scalactic_2.12-3.0.5.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.0.5/scalactic_2.12-3.0.5-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.jar!/" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar!/" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="$PROJECT_DIR$/hello/target/scala-2.12/classes" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/projects/hello/hello/target/scala-2.12/classes/" />
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="$PROJECT_DIR$/world/target/scala-2.12/classes" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/projects/hello/world/target/scala-2.12/classes/" />
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8-sources.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6-sources.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                    </list>
+                  </option>
+                  <option name="module">
+                    <GenericModuleInfoState>
+                      <option name="capabilities">
+                        <ModuleCapabilitiesState>
+                          <option name="canCompile" value="true" />
+                          <option name="canRun" value="true" />
+                          <option name="canTest" value="true" />
+                        </ModuleCapabilitiesState>
+                      </option>
+                      <option name="languageIds">
+                        <list>
+                          <option value="scala" />
+                        </list>
+                      </option>
+                      <option name="librariesDependencies">
+                        <list>
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.jar" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.12/3.0.5/scalatest_2.12-3.0.5.jar" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.0.5/scalactic_2.12-3.0.5.jar" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.jar" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar" />
+                          <option value="BSP: file:/home/mavia/projects/hello/hello/target/scala-2.12/classes/" />
+                          <option value="BSP: file:/home/mavia/projects/hello/world/target/scala-2.12/classes/" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8-sources.jar" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6-sources.jar" />
+                        </list>
+                      </option>
+                      <option name="modulesDependencies">
+                        <list>
+                          <option value="world.Compile" />
+                        </list>
+                      </option>
+                      <option name="name" value="hello.Compile" />
+                      <option name="type" value="JAVA_MODULE" />
+                    </GenericModuleInfoState>
+                  </option>
+                  <option name="resourceRoots">
+                    <list>
+                      <ResourceRootState>
+                        <option name="resourcePath" value="$PROJECT_DIR$/hello/src/main/resources" />
+                        <option name="rootType" value="java-resource" />
+                      </ResourceRootState>
+                      <ResourceRootState>
+                        <option name="resourcePath" value="$PROJECT_DIR$/hello/target/scala-2.12/resource_managed/main" />
+                        <option name="rootType" value="java-resource" />
+                      </ResourceRootState>
+                    </list>
+                  </option>
+                  <option name="scalaAddendum">
+                    <ScalaAddendumState>
+                      <option name="scalaSdkName" value="scala-sdk-2.12.8" />
+                    </ScalaAddendumState>
+                  </option>
+                  <option name="sourceRoots">
+                    <list>
+                      <SourceRootState>
+                        <option name="rootType" value="java-source" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/hello/src/main/scala" />
+                      </SourceRootState>
+                      <SourceRootState>
+                        <option name="rootType" value="java-source" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/hello/src/main/scala-2.12" />
+                      </SourceRootState>
+                      <SourceRootState>
+                        <option name="rootType" value="java-source" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/hello/src/main/scala-2" />
+                      </SourceRootState>
+                      <SourceRootState>
+                        <option name="rootType" value="java-source" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/hello/src/main/java" />
+                      </SourceRootState>
+                      <SourceRootState>
+                        <option name="generated" value="true" />
+                        <option name="rootType" value="java-source" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/hello/target/scala-2.12/src_managed/main" />
+                      </SourceRootState>
+                    </list>
+                  </option>
+                </ModuleState>
+              </value>
+            </entry>
+            <entry key="file:$PROJECT_DIR$/#hello/Test">
+              <value>
+                <ModuleState>
+                  <option name="baseDirContentRoot">
+                    <ContentRootState>
+                      <option name="path" value="$PROJECT_DIR$/hello" />
+                    </ContentRootState>
+                  </option>
+                  <option name="jvmJdkName" value="temurin-17" />
+                  <option name="libraries">
+                    <list>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.jar!/" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.12/3.0.5/scalatest_2.12-3.0.5.jar!/" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.12/3.0.5/scalatest_2.12-3.0.5.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.12/3.0.5/scalatest_2.12-3.0.5-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.0.5/scalactic_2.12-3.0.5.jar!/" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.0.5/scalactic_2.12-3.0.5.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.0.5/scalactic_2.12-3.0.5-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.jar!/" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar!/" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="$PROJECT_DIR$/hello/target/scala-2.12/classes" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/projects/hello/hello/target/scala-2.12/classes/" />
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="$PROJECT_DIR$/hello/target/scala-2.12/test-classes" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/projects/hello/hello/target/scala-2.12/test-classes" />
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="$PROJECT_DIR$/world/target/scala-2.12/classes" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/projects/hello/world/target/scala-2.12/classes/" />
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8-sources.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6-sources.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                    </list>
+                  </option>
+                  <option name="module">
+                    <GenericModuleInfoState>
+                      <option name="capabilities">
+                        <ModuleCapabilitiesState>
+                          <option name="canCompile" value="true" />
+                          <option name="canRun" value="true" />
+                          <option name="canTest" value="true" />
+                        </ModuleCapabilitiesState>
+                      </option>
+                      <option name="languageIds">
+                        <list>
+                          <option value="scala" />
+                        </list>
+                      </option>
+                      <option name="librariesDependencies">
+                        <list>
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.jar" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.12/3.0.5/scalatest_2.12-3.0.5.jar" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.0.5/scalactic_2.12-3.0.5.jar" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.jar" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar" />
+                          <option value="BSP: file:/home/mavia/projects/hello/hello/target/scala-2.12/classes/" />
+                          <option value="BSP: file:/home/mavia/projects/hello/hello/target/scala-2.12/test-classes" />
+                          <option value="BSP: file:/home/mavia/projects/hello/world/target/scala-2.12/classes/" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8-sources.jar" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6-sources.jar" />
+                        </list>
+                      </option>
+                      <option name="modulesDependencies">
+                        <list>
+                          <option value="hello.Compile" />
+                          <option value="world.Compile" />
+                        </list>
+                      </option>
+                      <option name="name" value="hello.Test" />
+                      <option name="type" value="JAVA_MODULE" />
+                    </GenericModuleInfoState>
+                  </option>
+                  <option name="resourceRoots">
+                    <list>
+                      <ResourceRootState>
+                        <option name="resourcePath" value="$PROJECT_DIR$/hello/src/test/resources" />
+                        <option name="rootType" value="java-test-resource" />
+                      </ResourceRootState>
+                      <ResourceRootState>
+                        <option name="resourcePath" value="$PROJECT_DIR$/hello/target/scala-2.12/resource_managed/test" />
+                        <option name="rootType" value="java-test-resource" />
+                      </ResourceRootState>
+                    </list>
+                  </option>
+                  <option name="scalaAddendum">
+                    <ScalaAddendumState>
+                      <option name="scalaSdkName" value="scala-sdk-2.12.8" />
+                    </ScalaAddendumState>
+                  </option>
+                  <option name="sourceRoots">
+                    <list>
+                      <SourceRootState>
+                        <option name="rootType" value="java-test" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/hello/src/test/scala" />
+                      </SourceRootState>
+                      <SourceRootState>
+                        <option name="rootType" value="java-test" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/hello/src/test/scala-2.12" />
+                      </SourceRootState>
+                      <SourceRootState>
+                        <option name="rootType" value="java-test" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/hello/src/test/scala-2" />
+                      </SourceRootState>
+                      <SourceRootState>
+                        <option name="rootType" value="java-test" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/hello/src/test/java" />
+                      </SourceRootState>
+                      <SourceRootState>
+                        <option name="generated" value="true" />
+                        <option name="rootType" value="java-test" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/hello/target/scala-2.12/src_managed/test" />
+                      </SourceRootState>
+                    </list>
+                  </option>
+                </ModuleState>
+              </value>
+            </entry>
+            <entry key="file:$PROJECT_DIR$/#root-build">
+              <value>
+                <ModuleState>
+                  <option name="baseDirContentRoot">
+                    <ContentRootState>
+                      <option name="path" value="$PROJECT_DIR$/project" />
+                    </ContentRootState>
+                  </option>
+                  <option name="jvmJdkName" value="temurin-17" />
+                  <option name="libraries">
+                    <list />
+                  </option>
+                  <option name="module">
+                    <GenericModuleInfoState>
+                      <option name="languageIds">
+                        <list>
+                          <option value="scala" />
+                        </list>
+                      </option>
+                      <option name="name" value="root.Build" />
+                      <option name="type" value="JAVA_MODULE" />
+                    </GenericModuleInfoState>
+                  </option>
+                  <option name="sourceRoots">
+                    <list>
+                      <SourceRootState>
+                        <option name="rootType" value="java-source" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/project/src/main/scala" />
+                      </SourceRootState>
+                      <SourceRootState>
+                        <option name="rootType" value="java-source" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/project/src/main/scala-2.12" />
+                      </SourceRootState>
+                      <SourceRootState>
+                        <option name="rootType" value="java-source" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/project/src/main/scala-2" />
+                      </SourceRootState>
+                      <SourceRootState>
+                        <option name="rootType" value="java-source" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/project/src/main/java" />
+                      </SourceRootState>
+                      <SourceRootState>
+                        <option name="rootType" value="java-source" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/project/src/main/scala-sbt-1.0" />
+                      </SourceRootState>
+                      <SourceRootState>
+                        <option name="rootType" value="java-source" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/project/Dependencies.scala" />
+                      </SourceRootState>
+                      <SourceRootState>
+                        <option name="generated" value="true" />
+                        <option name="rootType" value="java-source" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/src_managed/main" />
+                      </SourceRootState>
+                      <SourceRootState>
+                        <option name="rootType" value="java-source" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/build.sbt" />
+                      </SourceRootState>
+                    </list>
+                  </option>
+                </ModuleState>
+              </value>
+            </entry>
+            <entry key="file:$PROJECT_DIR$/#root/Compile">
+              <value>
+                <ModuleState>
+                  <option name="baseDirContentRoot">
+                    <ContentRootState>
+                      <option name="path" value="$PROJECT_DIR$" />
+                    </ContentRootState>
+                  </option>
+                  <option name="jvmJdkName" value="temurin-17" />
+                  <option name="libraries">
+                    <list>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.jar!/" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="$PROJECT_DIR$/target/scala-2.12/classes" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/projects/hello/target/scala-2.12/classes" />
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8-sources.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8-sources.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6-sources.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6-sources.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                    </list>
+                  </option>
+                  <option name="module">
+                    <GenericModuleInfoState>
+                      <option name="capabilities">
+                        <ModuleCapabilitiesState>
+                          <option name="canCompile" value="true" />
+                          <option name="canRun" value="true" />
+                          <option name="canTest" value="true" />
+                        </ModuleCapabilitiesState>
+                      </option>
+                      <option name="languageIds">
+                        <list>
+                          <option value="scala" />
+                        </list>
+                      </option>
+                      <option name="librariesDependencies">
+                        <list>
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.jar" />
+                          <option value="BSP: file:/home/mavia/projects/hello/target/scala-2.12/classes" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8-sources.jar" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8-sources.jar" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6-sources.jar" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6-sources.jar" />
+                        </list>
+                      </option>
+                      <option name="name" value="root.Compile" />
+                      <option name="type" value="JAVA_MODULE" />
+                    </GenericModuleInfoState>
+                  </option>
+                  <option name="resourceRoots">
+                    <list>
+                      <ResourceRootState>
+                        <option name="resourcePath" value="$PROJECT_DIR$/src/main/resources" />
+                        <option name="rootType" value="java-resource" />
+                      </ResourceRootState>
+                      <ResourceRootState>
+                        <option name="resourcePath" value="$PROJECT_DIR$/target/scala-2.12/resource_managed/main" />
+                        <option name="rootType" value="java-resource" />
+                      </ResourceRootState>
+                    </list>
+                  </option>
+                  <option name="scalaAddendum">
+                    <ScalaAddendumState>
+                      <option name="scalaSdkName" value="scala-sdk-2.12.8" />
+                    </ScalaAddendumState>
+                  </option>
+                  <option name="sourceRoots">
+                    <list>
+                      <SourceRootState>
+                        <option name="rootType" value="java-source" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/src/main/scala" />
+                      </SourceRootState>
+                      <SourceRootState>
+                        <option name="rootType" value="java-source" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/src/main/scala-2.12" />
+                      </SourceRootState>
+                      <SourceRootState>
+                        <option name="rootType" value="java-source" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/src/main/scala-2" />
+                      </SourceRootState>
+                      <SourceRootState>
+                        <option name="rootType" value="java-source" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/src/main/java" />
+                      </SourceRootState>
+                      <SourceRootState>
+                        <option name="generated" value="true" />
+                        <option name="rootType" value="java-source" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/target/scala-2.12/src_managed/main" />
+                      </SourceRootState>
+                    </list>
+                  </option>
+                </ModuleState>
+              </value>
+            </entry>
+            <entry key="file:$PROJECT_DIR$/#root/Test">
+              <value>
+                <ModuleState>
+                  <option name="baseDirContentRoot">
+                    <ContentRootState>
+                      <option name="path" value="$PROJECT_DIR$" />
+                    </ContentRootState>
+                  </option>
+                  <option name="jvmJdkName" value="temurin-17" />
+                  <option name="libraries">
+                    <list>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.jar!/" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="$PROJECT_DIR$/target/scala-2.12/classes" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/projects/hello/target/scala-2.12/classes" />
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="$PROJECT_DIR$/target/scala-2.12/test-classes" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/projects/hello/target/scala-2.12/test-classes" />
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8-sources.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8-sources.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6-sources.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6-sources.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                    </list>
+                  </option>
+                  <option name="module">
+                    <GenericModuleInfoState>
+                      <option name="capabilities">
+                        <ModuleCapabilitiesState>
+                          <option name="canCompile" value="true" />
+                          <option name="canRun" value="true" />
+                          <option name="canTest" value="true" />
+                        </ModuleCapabilitiesState>
+                      </option>
+                      <option name="languageIds">
+                        <list>
+                          <option value="scala" />
+                        </list>
+                      </option>
+                      <option name="librariesDependencies">
+                        <list>
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.jar" />
+                          <option value="BSP: file:/home/mavia/projects/hello/target/scala-2.12/classes" />
+                          <option value="BSP: file:/home/mavia/projects/hello/target/scala-2.12/test-classes" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8-sources.jar" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8-sources.jar" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6-sources.jar" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6-sources.jar" />
+                        </list>
+                      </option>
+                      <option name="modulesDependencies">
+                        <list>
+                          <option value="root.Compile" />
+                        </list>
+                      </option>
+                      <option name="name" value="root.Test" />
+                      <option name="type" value="JAVA_MODULE" />
+                    </GenericModuleInfoState>
+                  </option>
+                  <option name="resourceRoots">
+                    <list>
+                      <ResourceRootState>
+                        <option name="resourcePath" value="$PROJECT_DIR$/src/test/resources" />
+                        <option name="rootType" value="java-test-resource" />
+                      </ResourceRootState>
+                      <ResourceRootState>
+                        <option name="resourcePath" value="$PROJECT_DIR$/target/scala-2.12/resource_managed/test" />
+                        <option name="rootType" value="java-test-resource" />
+                      </ResourceRootState>
+                    </list>
+                  </option>
+                  <option name="scalaAddendum">
+                    <ScalaAddendumState>
+                      <option name="scalaSdkName" value="scala-sdk-2.12.8" />
+                    </ScalaAddendumState>
+                  </option>
+                  <option name="sourceRoots">
+                    <list>
+                      <SourceRootState>
+                        <option name="rootType" value="java-test" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/src/test/scala" />
+                      </SourceRootState>
+                      <SourceRootState>
+                        <option name="rootType" value="java-test" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/src/test/scala-2.12" />
+                      </SourceRootState>
+                      <SourceRootState>
+                        <option name="rootType" value="java-test" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/src/test/scala-2" />
+                      </SourceRootState>
+                      <SourceRootState>
+                        <option name="rootType" value="java-test" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/src/test/java" />
+                      </SourceRootState>
+                      <SourceRootState>
+                        <option name="generated" value="true" />
+                        <option name="rootType" value="java-test" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/target/scala-2.12/src_managed/test" />
+                      </SourceRootState>
+                    </list>
+                  </option>
+                </ModuleState>
+              </value>
+            </entry>
+            <entry key="file:$PROJECT_DIR$/#world/Compile">
+              <value>
+                <ModuleState>
+                  <option name="baseDirContentRoot">
+                    <ContentRootState>
+                      <option name="path" value="$PROJECT_DIR$/world" />
+                    </ContentRootState>
+                  </option>
+                  <option name="jvmJdkName" value="temurin-17" />
+                  <option name="libraries">
+                    <list>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.jar!/" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.12/3.0.5/scalatest_2.12-3.0.5.jar!/" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.12/3.0.5/scalatest_2.12-3.0.5.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.12/3.0.5/scalatest_2.12-3.0.5-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.0.5/scalactic_2.12-3.0.5.jar!/" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.0.5/scalactic_2.12-3.0.5.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.0.5/scalactic_2.12-3.0.5-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.jar!/" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar!/" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="$PROJECT_DIR$/world/target/scala-2.12/classes" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/projects/hello/world/target/scala-2.12/classes/" />
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8-sources.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6-sources.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                    </list>
+                  </option>
+                  <option name="module">
+                    <GenericModuleInfoState>
+                      <option name="capabilities">
+                        <ModuleCapabilitiesState>
+                          <option name="canCompile" value="true" />
+                          <option name="canRun" value="true" />
+                          <option name="canTest" value="true" />
+                        </ModuleCapabilitiesState>
+                      </option>
+                      <option name="languageIds">
+                        <list>
+                          <option value="scala" />
+                        </list>
+                      </option>
+                      <option name="librariesDependencies">
+                        <list>
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.jar" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.12/3.0.5/scalatest_2.12-3.0.5.jar" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.0.5/scalactic_2.12-3.0.5.jar" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.jar" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar" />
+                          <option value="BSP: file:/home/mavia/projects/hello/world/target/scala-2.12/classes/" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8-sources.jar" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6-sources.jar" />
+                        </list>
+                      </option>
+                      <option name="name" value="world.Compile" />
+                      <option name="type" value="JAVA_MODULE" />
+                    </GenericModuleInfoState>
+                  </option>
+                  <option name="resourceRoots">
+                    <list>
+                      <ResourceRootState>
+                        <option name="resourcePath" value="$PROJECT_DIR$/world/src/main/resources" />
+                        <option name="rootType" value="java-resource" />
+                      </ResourceRootState>
+                      <ResourceRootState>
+                        <option name="resourcePath" value="$PROJECT_DIR$/world/target/scala-2.12/resource_managed/main" />
+                        <option name="rootType" value="java-resource" />
+                      </ResourceRootState>
+                    </list>
+                  </option>
+                  <option name="scalaAddendum">
+                    <ScalaAddendumState>
+                      <option name="scalaSdkName" value="scala-sdk-2.12.8" />
+                    </ScalaAddendumState>
+                  </option>
+                  <option name="sourceRoots">
+                    <list>
+                      <SourceRootState>
+                        <option name="rootType" value="java-source" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/world/src/main/scala" />
+                      </SourceRootState>
+                      <SourceRootState>
+                        <option name="rootType" value="java-source" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/world/src/main/scala-2.12" />
+                      </SourceRootState>
+                      <SourceRootState>
+                        <option name="rootType" value="java-source" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/world/src/main/scala-2" />
+                      </SourceRootState>
+                      <SourceRootState>
+                        <option name="rootType" value="java-source" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/world/src/main/java" />
+                      </SourceRootState>
+                      <SourceRootState>
+                        <option name="generated" value="true" />
+                        <option name="rootType" value="java-source" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/world/target/scala-2.12/src_managed/main" />
+                      </SourceRootState>
+                    </list>
+                  </option>
+                </ModuleState>
+              </value>
+            </entry>
+            <entry key="file:$PROJECT_DIR$/#world/Test">
+              <value>
+                <ModuleState>
+                  <option name="baseDirContentRoot">
+                    <ContentRootState>
+                      <option name="path" value="$PROJECT_DIR$/world" />
+                    </ContentRootState>
+                  </option>
+                  <option name="jvmJdkName" value="temurin-17" />
+                  <option name="libraries">
+                    <list>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.jar!/" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.12/3.0.5/scalatest_2.12-3.0.5.jar!/" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.12/3.0.5/scalatest_2.12-3.0.5.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.12/3.0.5/scalatest_2.12-3.0.5-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.0.5/scalactic_2.12-3.0.5.jar!/" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.0.5/scalactic_2.12-3.0.5.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.0.5/scalactic_2.12-3.0.5-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.jar!/" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar!/" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="$PROJECT_DIR$/world/target/scala-2.12/classes" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/projects/hello/world/target/scala-2.12/classes/" />
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="classJars">
+                          <list>
+                            <option value="$PROJECT_DIR$/world/target/scala-2.12/test-classes" />
+                          </list>
+                        </option>
+                        <option name="displayName" value="BSP: file:/home/mavia/projects/hello/world/target/scala-2.12/test-classes" />
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8-sources.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                      <LibraryState>
+                        <option name="displayName" value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6-sources.jar" />
+                        <option name="sourceJars">
+                          <list>
+                            <option value="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6-sources.jar!/" />
+                          </list>
+                        </option>
+                      </LibraryState>
+                    </list>
+                  </option>
+                  <option name="module">
+                    <GenericModuleInfoState>
+                      <option name="capabilities">
+                        <ModuleCapabilitiesState>
+                          <option name="canCompile" value="true" />
+                          <option name="canRun" value="true" />
+                          <option name="canTest" value="true" />
+                        </ModuleCapabilitiesState>
+                      </option>
+                      <option name="languageIds">
+                        <list>
+                          <option value="scala" />
+                        </list>
+                      </option>
+                      <option name="librariesDependencies">
+                        <list>
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.jar" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.12/3.0.5/scalatest_2.12-3.0.5.jar" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.0.5/scalactic_2.12-3.0.5.jar" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.8/scala-reflect-2.12.8.jar" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.0.6/scala-xml_2.12-1.0.6.jar" />
+                          <option value="BSP: file:/home/mavia/projects/hello/world/target/scala-2.12/classes/" />
+                          <option value="BSP: file:/home/mavia/projects/hello/world/target/scala-2.12/test-classes" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.8/scala-compiler-2.12.8-sources.jar" />
+                          <option value="BSP: file:/home/mavia/.cache/coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6-sources.jar" />
+                        </list>
+                      </option>
+                      <option name="modulesDependencies">
+                        <list>
+                          <option value="world.Compile" />
+                        </list>
+                      </option>
+                      <option name="name" value="world.Test" />
+                      <option name="type" value="JAVA_MODULE" />
+                    </GenericModuleInfoState>
+                  </option>
+                  <option name="resourceRoots">
+                    <list>
+                      <ResourceRootState>
+                        <option name="resourcePath" value="$PROJECT_DIR$/world/src/test/resources" />
+                        <option name="rootType" value="java-test-resource" />
+                      </ResourceRootState>
+                      <ResourceRootState>
+                        <option name="resourcePath" value="$PROJECT_DIR$/world/target/scala-2.12/resource_managed/test" />
+                        <option name="rootType" value="java-test-resource" />
+                      </ResourceRootState>
+                    </list>
+                  </option>
+                  <option name="scalaAddendum">
+                    <ScalaAddendumState>
+                      <option name="scalaSdkName" value="scala-sdk-2.12.8" />
+                    </ScalaAddendumState>
+                  </option>
+                  <option name="sourceRoots">
+                    <list>
+                      <SourceRootState>
+                        <option name="rootType" value="java-test" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/world/src/test/scala" />
+                      </SourceRootState>
+                      <SourceRootState>
+                        <option name="rootType" value="java-test" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/world/src/test/scala-2.12" />
+                      </SourceRootState>
+                      <SourceRootState>
+                        <option name="rootType" value="java-test" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/world/src/test/scala-2" />
+                      </SourceRootState>
+                      <SourceRootState>
+                        <option name="rootType" value="java-test" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/world/src/test/java" />
+                      </SourceRootState>
+                      <SourceRootState>
+                        <option name="generated" value="true" />
+                        <option name="rootType" value="java-test" />
+                        <option name="sourcePath" value="$PROJECT_DIR$/world/target/scala-2.12/src_managed/test" />
+                      </SourceRootState>
+                    </list>
+                  </option>
+                </ModuleState>
+              </value>
+            </entry>
+          </map>
+        </option>
+      </MagicMetaModelTemporaryFacadeState>
+    </option>
+    <option name="overlappingTargetsGraph">
+      <map>
+        <entry key="file:$PROJECT_DIR$/#hello/Compile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="file:$PROJECT_DIR$/#hello/Test">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="file:$PROJECT_DIR$/#root-build">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="file:$PROJECT_DIR$/#root/Compile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="file:$PROJECT_DIR$/#root/Test">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="file:$PROJECT_DIR$/#world/Compile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="file:$PROJECT_DIR$/#world/Test">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="targetsStatusStorageState">
+      <TargetsStatusStorageState>
+        <option name="allTargets">
+          <list>
+            <option value="file:$PROJECT_DIR$/#root/Test" />
+            <option value="file:$PROJECT_DIR$/#hello/Compile" />
+            <option value="file:$PROJECT_DIR$/#world/Compile" />
+            <option value="file:$PROJECT_DIR$/#world/Test" />
+            <option value="file:$PROJECT_DIR$/#hello/Test" />
+            <option value="file:$PROJECT_DIR$/#root/Compile" />
+            <option value="file:$PROJECT_DIR$/#root-build" />
+          </list>
+        </option>
+        <option name="loadedTargets">
+          <list>
+            <option value="file:$PROJECT_DIR$/#root-build" />
+            <option value="file:$PROJECT_DIR$/#hello/Compile" />
+            <option value="file:$PROJECT_DIR$/#root/Compile" />
+            <option value="file:$PROJECT_DIR$/#root/Test" />
+            <option value="file:$PROJECT_DIR$/#world/Test" />
+            <option value="file:$PROJECT_DIR$/#hello/Test" />
+            <option value="file:$PROJECT_DIR$/#world/Compile" />
+          </list>
+        </option>
+      </TargetsStatusStorageState>
+    </option>
+  </component>
+</project>
